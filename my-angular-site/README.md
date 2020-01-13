@@ -1,4 +1,7 @@
-# MyAngularSite
+# MyAngularSite - Retrieve Github 10 Usernames
+
+A tutorial by Scotch.io
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
